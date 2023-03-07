@@ -10,3 +10,5 @@ public class ChessForLoop {
         }
     }
 }
+
+//https://github.com/semdejong/ItVitae-java-group-50/tree/master/src/com/semdejong/week1
