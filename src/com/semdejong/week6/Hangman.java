@@ -21,6 +21,7 @@ public class Hangman {
 
         System.out.println("Let the game begin!");
 
+
         int lives = 10;
         int superLive = 1;
 
