@@ -8,7 +8,7 @@ public class Fibonacci {
     private static HashMap<Integer, Integer> fibValue = new HashMap<>();
 
     public static void main(String[] args) {
-        System.out.println(fibonacci(50));
+        System.out.println(fibonacci(40));
     }
 
     public static int fibonacci(int n)  {
